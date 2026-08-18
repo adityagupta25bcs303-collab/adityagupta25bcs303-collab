@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./ChatGPT%20Image%20Aug%2018%2C%202026%2C%2010_26_05%20PM.png" alt="Header" width="100%">
+  <img src="./assets/ChatGPT%20Image%20Aug%2018%2C%202026%2C%2010_26_05%20PM.png" alt="Header" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Aditya Gupta</h1>
