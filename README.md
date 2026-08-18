@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Aditya Gupta</h1>
-<h3 align="center">A full-stack Airbnb-inspired web application built with Node.js, Express.js, MongoDB, and EJS.</h3>
+<h3 align="center">💻 MERN Stack Developer | ⚡ React • Node.js • Express • MongoDB | 🚀 Building & Learning</h3>
 
 <img align="right" alt="coding" width="400" src="./assets/scrolling-up-green-system-coding-nxt2vg8bl6e4wbo1.gif"/>
 
